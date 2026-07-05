@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Lead%20Fullstack-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tech%20Lead-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/DevOps%20Engineer-F97316?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20%26%20Architect-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/SRE-16A34A?style=for-the-badge&logo=datadog&logoColor=white"/>
