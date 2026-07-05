@@ -2,9 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,50:7c3aed,100:f97316&section=header"/>
 
+<!--
 <h3 align="center">
   Senior Technology Specialist • Tech Lead Fullstack • Data Engineer • DevOps Engineer • SRE Mindset
 </h3>
+-->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=Arquiteto+de+Solu%C3%A7%C3%B5es+%7C+Engenheiro+DevOps;Tech+Lead+Fullstack+%7C+Desenvolvedor+Senior;Arquiteto+de+IA+Enterprise+%7C+Engenheiro+de+Prompt+%7C+MCP;Engenheiro+de+Dados+%7C+Cientista+BI+Analytics;Microsservi%C3%A7os+%7C+API+Restfull;Observabilidade+%7C+Confiabilidade" alt="Typing SVG" />
@@ -21,13 +23,10 @@
 
 ---
 
-## 🧭 Atualmente
+## 🧭 Sobre
 
-**Tech Lead na PUCPR — Grupo Marista**, atuando na liderança técnica de desenvolvimento de softwares e microsserviços.
-
-Foco em **arquitetura de soluções, DevOps, confiabilidade, observabilidade, automação de processos de TI, engenharia de dados e evolução contínua**.
-
-Atuando no direcionamento técnico, definição de arquitetura, padrões e boas práticas, buscando elevar a qualidade, maturidade e previsibilidade das entregas.
+**Tech Lead na PUCPR — Grupo Marista**, atuando na liderança e direcionamento técnico no desenvolvimento de softwares e microsserviços, definição de arquitetura, padrões e boas práticas, buscando elevar a qualidade, maturidade e previsibilidade das entregas.
+Foco em **Arquitetura de Soluções, DevOps, Confiabilidade, Observabilidade, Automação de Processos de TI, Engenharia de Dados e Evolução Contínua**.
 
 > Tecnologia boa não é só a que funciona. É a que escala, é observável, é sustentável e não faz o time rezar antes do deploy.
 
