@@ -185,7 +185,7 @@ Experiência com bancos relacionais e NoSQL, modelagem, performance, procedures,
 ---
 
 <p align="center">
-  <b>Construindo soluções que conectam software, dados, nuvem, automação e inteligência artificial.</b>
+  <b>Construindo soluções que conectam pessoas, software, dados, nuvem, automação e inteligência artificial.</b>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0ea5e9,50:7c3aed,100:f97316&section=footer"/>
