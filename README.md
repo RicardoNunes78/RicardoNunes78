@@ -1,7 +1,6 @@
 <h1 align="Left">👩🏻‍💻 Ricardo Nunes</h1>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,50:7c3aed,100:f97316&section=header"/>
-
 <!--
 <h3 align="center">
   Senior Technology Specialist • Tech Lead Fullstack • Data Engineer • DevOps Engineer • SRE Mindset
