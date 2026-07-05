@@ -3,11 +3,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,50:7c3aed,100:f97316&section=header"/>
 
 <h3 align="center">
-  Senior Technology Specialist • Tech Lead • Data Engineer • DevOps Engineer • SRE Mindset
+  Senior Technology Specialist • Tech Lead Fullstack • Data Engineer • DevOps Engineer • SRE Mindset
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=Arquitetura+de+Solu%C3%A7%C3%B5es+%7C+Cloud+%7C+DevOps;Engenharia+de+Dados+%7C+BI+%7C+Analytics;Enterprise+AI+Specialist+%7C+Engenharia+de+Prompt+%7C+MCP;Sustenta%C3%A7%C3%A3o+N3+%7C+Observabilidade+%7C+Confiabilidade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=Arquitetura+de+Solu%C3%A7%C3%B5es+%7C+Cloud+%7C+DevOps;Engenharia+de+Dados+%7C+BI+%7C+Analytics;Arquiteto+IA+Enterprise+%7C+Engenharia+de+Prompt+%7C+MCP;Sustenta%C3%A7%C3%A3o+N3+%7C+Observabilidade+%7C+Confiabilidade" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,18 +15,18 @@
   <img src="https://img.shields.io/badge/Data%20Engineer-2563EB?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/DevOps%20Engineer-F97316?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/SRE-16A34A?style=for-the-badge&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20Prompt%20Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20Architect%20Enterprise-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ---
 
-## 🧭 Sobre mim
+## 🧭 Atualmente
 
-Sou **Tech Lead na PUCPR — Grupo Marista**, atuando na liderança técnica de desenvolvimento de software e sustentação avançada **N3** em ambientes críticos.
+**Tech Lead na PUCPR — Grupo Marista**, atuando na liderança técnica de desenvolvimento de softwares e microsserviços.
 
-Tenho foco em **arquitetura de soluções, DevOps, confiabilidade, observabilidade, automação, engenharia de dados e evolução contínua**.
+Foco em **arquitetura de soluções, DevOps, confiabilidade, observabilidade, automação de processos de TI, engenharia de dados e evolução contínua**.
 
-Atuo no direcionamento técnico, definição de arquitetura, padrões e boas práticas, buscando elevar a qualidade, maturidade e previsibilidade das entregas.
+Atuando no direcionamento técnico, definição de arquitetura, padrões e boas práticas, buscando elevar a qualidade, maturidade e previsibilidade das entregas.
 
 > Tecnologia boa não é só a que funciona. É a que escala, é observável, é sustentável e não faz o time rezar antes do deploy.
 
@@ -34,22 +34,22 @@ Atuo no direcionamento técnico, definição de arquitetura, padrões e boas pr�
 
 ## 🎯 Atuação Profissional
 
-- Liderança técnica em desenvolvimento de software e sustentação avançada **N3**.
-- Definição de arquitetura, padrões técnicos e boas práticas de engenharia.
-- Análise de causa raiz e resolução de incidentes críticos.
-- Evolução de pipelines **CI/CD** e automações DevOps.
-- Implementação de práticas de **observabilidade e monitoramento com Datadog**.
-- Uso de métricas, logs e tracing para aumento de confiabilidade.
-- Desenvolvimento de automações com **RPA**.
+- Liderança técnica em desenvolvimento de software e sustentação avançada **N3**;
+- Definição de arquitetura, padrões técnicos e boas práticas de engenharia;
+- Análise de causa raiz, troubleshooting e resolução de incidentes críticos;
+- Evolução de pipelines **CI/CD** e automações DevOps;
+- Implementação de práticas de **observabilidade e monitoramento**;
+- Uso de métricas, logs e tracing para aumento de confiabilidade;
+- Desenvolvimento de automações e processos ágeis;
 - Integração de sistemas, dados e processos para suporte a demandas estratégicas de negócio.
 
 ---
 
-## 🤖 IA & Engenharia de Prompt
+## 🤖 Arquitetura IA, Engenharia de Prompt & MCP
 
-Atuação com **IA aplicada, modelos generativos, agentes inteligentes, automações e skills**, utilizando engenharia de prompt para transformar contexto em produtividade real.
+Atuação com **IA aplicada, modelos generativos, agentes inteligentes, automações e skills**, transformando contexto em produtividade real.
 
-Também trabalho com conceitos baseados em **MCP — Model Context Protocol**, aplicados à orquestração de contexto e construção de soluções inteligentes orientadas à decisão.
+Orquestração de contexto e construção de soluções inteligentes orientadas à decisão.
 
 <p>
   <img src="https://img.shields.io/badge/Generative%20AI-111827?style=flat-square&logo=openai&logoColor=white"/>
@@ -168,16 +168,16 @@ Experiência com bancos relacionais e NoSQL, modelagem, performance, procedures,
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Conecte-se
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+  <a href="https://www.linkedin.com/in/ricardo-nunes-00948089/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEU-EMAIL-AQUI">
+  <a href="mailto:is.ricardo@hotmail.com">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://SEU-PORTFOLIO-AQUI">
+  <a href="https://ricardonunes78.github.io/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
