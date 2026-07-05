@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=Arquitetura+de+Solu%C3%A7%C3%B5es+%7C+Cloud+%7C+DevOps;Engenharia+de+Dados+%7C+BI+%7C+Analytics;Arquiteto+IA+Enterprise+%7C+Engenharia+de+Prompt+%7C+MCP;Sustenta%C3%A7%C3%A3o+N3+%7C+Observabilidade+%7C+Confiabilidade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=Arquitetura+de+Solu%C3%A7%C3%B5es+%7C+Cloud+%7C+DevOps;Tech+Lead+Fullstack+%7C+Desenvolvedor+Senior;Engenharia+de+Dados+%7C+BI+%7C+Analytics;Arquiteto+IA+Enterprise+%7C+Engenharia+de+Prompt+%7C+MCP;Sustenta%C3%A7%C3%A3o+N3+%7C+Observabilidade+%7C+Confiabilidade" alt="Typing SVG" />
 </p>
 
 <p align="center">
