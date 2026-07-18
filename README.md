@@ -24,7 +24,7 @@
 
 ## 🧭 Sobre
 
-**Tech Lead na PUCPR — Grupo Marista**, atuando na liderança e direcionamento técnico no desenvolvimento de softwares e microsserviços, definição de arquitetura, padrões e boas práticas, buscando elevar a qualidade, maturidade e previsibilidade das entregas.
+**Tech Lead na PUCPR — Grupo Marista**, atuando na liderança e direcionamento técnico no desenvolvimento de softwares e microsserviços, definição de arquitetura, padrões e boas práticas de desenvolvimento, buscando elevar a qualidade, maturidade e previsibilidade das entregas.
 Foco em **Arquitetura de Soluções, DevOps, Confiabilidade, Observabilidade, Automação de Processos de TI, Engenharia de Dados e Evolução Contínua**.
 
 > Tecnologia boa não é só a que funciona. É a que escala, é observável, é sustentável e não faz o time rezar antes do deploy.
